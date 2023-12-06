@@ -1,1 +1,10 @@
 npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+
+Server:
+npm init -y
+
+hacemos cambios en package.json
+
+npm install cloudinary cors dotenv express mongoose nodemon openai
+
+creamos el archivo index.js
